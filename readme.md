@@ -122,19 +122,17 @@
 2. Clone este repositório.
 3. No terminal, execute:
    ```bash
-   node index.js
+   node src/index.js
 4. Siga as instruções no terminal para jogar.
 
 <h3>🛠️ Tecnologias utilizadas</h3>
-Node.js
+- Node.js
 
-JavaScript (ES6+)
+- JavaScript (ES6+)
 
-readline (interface CLI)
+- readline (interface CLI)
 
-Simulação com Math.random() e Math.floor()
+- Simulação com Math.random() e Math.floor()
 
-
-<h3>📸 Prévia</h3> <p><i>Personagens enfrentando-se em uma corrida dinâmica por blocos variados!</i></p> <img src="./docs/preview.gif" alt="Prévia Mario Kart.JS">
 <h3>📄 Licença</h3>
 MIT © João Filho
