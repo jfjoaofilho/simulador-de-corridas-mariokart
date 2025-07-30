@@ -99,7 +99,7 @@
       <li><b>CURVA:</b> cada jogador rola um dado + MANOBRABILIDADE. Quem tiver maior valor ganha 1 ponto.</li>
       <li><b>CONFRONTO:</b> cada jogador rola um dado + PODER. O perdedor pode:
         <ul>
-          <li>Perder pontos com penalidades (casco: -1 ponto, bomba: -12 pontos, mas limitado aos pontos disponíveis)</li>
+          <li>Perder pontos com penalidades (🐢 casco: -1 ponto, 💣 bomba: -12 pontos, mas limitado aos pontos disponíveis)</li>
           <li>O vencedor pode ganhar um TURBO extra (+1 ponto com 50% de chance)</li>
         </ul>
       </li>
@@ -126,6 +126,7 @@
 4. Siga as instruções no terminal para jogar.
 
 <h3>🛠️ Tecnologias utilizadas</h3>
+
 - Node.js
 
 - JavaScript (ES6+)
